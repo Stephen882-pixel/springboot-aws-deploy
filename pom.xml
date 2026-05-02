@@ -59,6 +59,7 @@
 			</plugin>
 
 		</plugins>
+		<finalName>springboot-aws-deploy-service</finalName>
 	</build>
 
 </project>
